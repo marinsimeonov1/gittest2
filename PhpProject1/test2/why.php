@@ -6,4 +6,7 @@
  * and open the template in the editor.
  */
 
-echo 'dddd';
+echo 'dddd0';
+echo 'dddd1';
+echo 'dddd2';
+echo 'dddd3';
