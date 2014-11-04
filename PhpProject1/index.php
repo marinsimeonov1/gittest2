@@ -7,10 +7,9 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>hello2</title>
         <title>hello1</title>
     </head>
     <body>
-        dsdsdsd
+        <p>hello</p>
     </body>
 </html>
