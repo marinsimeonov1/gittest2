@@ -9,14 +9,6 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
     </head>
-    <body> cxcxcxz
-        <?php
-        // put your code here
-        ?>
-        xcdsds
-        dsdsdsd
-        dsdsds
-        xzxz
-        hjhhjj
+    <body>
     </body>
 </html>
