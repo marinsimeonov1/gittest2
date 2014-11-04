@@ -8,6 +8,7 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title>hello2</title>
+        <title>hello1</title>
     </head>
     <body>
         dsdsdsd
