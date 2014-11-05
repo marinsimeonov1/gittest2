@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-echo 'fddfd';
+echo '123 fddfd';
 
 echo 'dddd1';
 echo 'dddd1';
