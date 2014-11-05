@@ -6,6 +6,8 @@
  * and open the template in the editor.
  */
 
+echo 'fddfd';
+
 echo 'dddd1';
 echo 'dddd1';
 echo 'dddd2';
